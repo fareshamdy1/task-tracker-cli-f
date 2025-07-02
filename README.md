@@ -25,30 +25,39 @@ Perfect for learning Python file handling, basic CRUD operations, and building C
 ```bash
 git clone https://github.com/fareshamdy1/task-tracker-cli.git
 cd task-tracker-cli
-Run the app:
+```
 
-bash
-Copy
-Edit
+2. Run the app:
+
+```bash
 python task_manager.py
-🧠 Tech Stack
-Python 3.x
+```
 
-JSON
+---
 
-datetime + os modules
+## 📂 File Structure
 
-No external libraries required
-
-📂 File Structure
-pgsql
-Copy
-Edit
+```
 task-tracker-cli/
 ├── task_manager.py
 └── tasks.json
-👤 Author
-Fares Hamdy
+```
+
+---
+
+## 🧠 Tech Stack
+
+- Python 3.x  
+- JSON  
+- `datetime` + `os` modules  
+- No external libraries required  
+
+---
+
+## 👤 Author
+
+**Fares Hamdy**
+
 ---
 
 ## 📃 License
